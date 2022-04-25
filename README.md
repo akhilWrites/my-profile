@@ -1,3 +1,4 @@
+
 <html>
 	<head>
 		<title>Massively by HTML5 UP</title>
@@ -90,14 +91,14 @@ Worked closely with the frontend engineers and production grade application whic
 									<section>
 										<article>
 											
-											<p>Graduated from Gitam University with a cgpa of 6.0 </br>
-												Bachelors in technology specialized in Computer Science </br>
+											<p>Graduated from Gitam University with a cgpa of 6.0 
+												Bachelors in technology specialized in Computer Science 
 											Had a strong fundamental background knowledge on all the computer related technologies
 											
 											</p>
 										</article>
 										<article>
-											<p>Completed my higher secondary school from Narayana Junior College, Hyderabad. </br>
+											<p>Completed my higher secondary school from Narayana Junior College, Hyderabad. 
 												Intermediate in MPC, Aggregate: 92%  with a strong base in Mathematics, Quantitative, Logical, Chemistry, Physics.
 												</p>
 										</article>
@@ -137,9 +138,9 @@ Worked closely with the frontend engineers and production grade application whic
 			
 										<h2>Morel CRM</h2>
 									</header>
-									<p>Morell crm is a replica of hubspot crm for real estate brokers. <br/> 
-										The Technologies used to build this app are Java ,Spring Boot API development , Hibernate , PostgreSQL. <br/>
-										Worked closely with frontend engineers and developed the morell crm application. </br>
+									<p>Morell crm is a replica of hubspot crm for real estate brokers. 
+										The Technologies used to build this app are Java ,Spring Boot API development , Hibernate , PostgreSQL. 
+										Worked closely with frontend engineers and developed the morell crm application. 
 										Worked closely with other backend engineers and developed and designed the database for morell crm application.
 									</p>								
 								</article>
