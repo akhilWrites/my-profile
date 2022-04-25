@@ -155,8 +155,10 @@ Worked closely with the frontend engineers and production grade application whic
 										<h2>Building and developing SaaS ETL Connectors
 										</h2>
 									</header>
-									<p>Worked on a project called DATON which is a cloud based self-service platform, which has connectors for various e-commerce, advertising, marketing, CRM platforms. Built SaaS integration platforms using Kotlin/Java technology, which provides the customers an easy way to analyze their data.
-									</br> 	Provided over 50 production level integration platforms for clients.
+									<p
+									>Worked on a project called DATON which is a cloud based self-service platform, which has connectors for various e-commerce, advertising, marketing, CRM platforms. Built SaaS integration platforms using Kotlin/Java technology, which provides the customers an easy way to analyze their data.
+									</br> 	
+									Provided over 50 production level integration platforms for clients.
 
 									</p>
 									
