@@ -1,4 +1,3 @@
-
 <html>
 	<head>
 		<title>Massively by HTML5 UP</title>
@@ -152,7 +151,7 @@ Worked closely with the frontend engineers and production grade application whic
 									</header>
 									<p
 									>Worked on a project called DATON which is a cloud based self-service platform, which has connectors for various e-commerce, advertising, marketing, CRM platforms. Built SaaS integration platforms using Kotlin/Java technology, which provides the customers an easy way to analyze their data.
-									</br> 	
+			
 									Provided over 50 production level integration platforms for clients.
 
 									</p>
@@ -165,7 +164,7 @@ Worked closely with the frontend engineers and production grade application whic
 										</h2>
 									</header>
 									
-									<p>Working currently on a web based bidding portal called pruvaa using java, spring boot, MySQL and Docker. </br>
+									<p>Working currently on a web based bidding portal called pruvaa using java, spring boot, MySQL and Docker. 
 										Leveraged the spring boot , Hibernate and developed an apis for the user management.
 
 									</p>
